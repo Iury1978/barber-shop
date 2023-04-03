@@ -1,0 +1,16 @@
+@import "/css/normalize.css";
+
+@import "/css/fonts.css";
+@import "/css/style.css";
+@import "/css/preload.css";
+
+@import "/css/header.css";
+@import "/css/navigation.css";
+@import "/css/hero.css";
+@import "/css/slider.css";
+@import "/css/price.css";
+@import "/css/about.css";
+@import "/css/reserve.css";
+@import "/css/radio.css";
+
+@import "/css/footer.css";
